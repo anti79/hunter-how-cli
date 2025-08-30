@@ -1,5 +1,11 @@
 # Unofficial CLI tool for ⌖ Hunter.how
 
+# Installation
+
+```
+pip3 install hunter-how-cli
+```
+
 # Usage examples
 
 Set API key:
